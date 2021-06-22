@@ -1,6 +1,10 @@
 # [Welcome to Otwarty Kod](https://www.otwartykod.pl/)
 
 
+Wybór odpowiedniej licencji:
+[Choose an open source license | Choose a License](https://choosealicense.com/)
+
+
 
 > -   Oprogramowanie jako przedmiot prawa autorskiego
 > -   Licencje
@@ -30,6 +34,12 @@
 
 https://legalgeek.pl/wp-content/uploads/2019/09/Przewodnik-prawny-licencje.pdf
 
+[Oprogramowanie Open Source – pułapki w wykorzystaniu komercyjnym - Biznes, Finanse i Prawo](http://di.com.pl/oprogramowanie-open-source---pulapki-w-wykorzystaniu-komercyjnym-64618)
+
+[Oprogramowanie Open Source - pułapki w wykorzystaniu komercyjnym | Legal Geek](https://legalgeek.pl/oprogramowanie-open-source-pulapki-w-wykorzystaniu-komercyjnym/)
+
+Urzędowy bełkot:
+[Licencje Open Source i ich znaczenie dla działalności przedsiębiorstw. Unijny projekt audytowy EU-FOSSA - PARP - Centrum Rozwoju MŚP](https://www.parp.gov.pl/component/content/article/56985:licencje-open-source-i-ich-znaczenie-dla-dzialalnosci-przedsiebiorstw-unijny-projekt-audytowy-eu-fossa)
 
 ## licence:
 
