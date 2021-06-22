@@ -1,0 +1,2 @@
+# otwartykod
+www.otwartykod.pl
