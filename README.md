@@ -88,6 +88,17 @@ Whether an open source violation is caused by your employee or a third-party con
 9.  **Plan for the future.** 
 Startup business models can change rapidly, and a SaaS model can quickly become a distributed software model. Following the rules for distributed software, regardless of your current model, can provide flexibility for shifting to a distributed software model without having to remove certain open source software and change associated functionalities.
 
+## Licencja MIT
+[Open Source - trochę dłuższa analiza (część pierwsza) | LinkedIn](https://www.linkedin.com/pulse/open-source-troch%C4%99-d%C5%82u%C5%BCsza-analiza-cz%C4%99%C5%9B%C4%87-pierwsza-marcin-maruta/)
+
+Non-copyleft - MIT, BSD, Apache 2.0 - licencja wymaga zachowania praw autorskich i informacji o licencji, ale pozwala na dystrybucję na innych warunkach bez ujawniania kodu źródłowego.
+
+Licencja ta stała się wzorem dla udostępniania oprogramowania w środowiskach akademickich, w późniejszym okresie pojawiło się zresztą wiele bardzo zbliżonych licencji (np. MIT)[1].
+ 
+Podsumowując – wykorzystanie komponentów na tzw. "permisywnych" licencjach Open Source (MIT, BSD, Apache) wiąże się głównie tylko z podaniem w dokumentacji odpowiedniej informacji o zastosowanym oprogramowaniu i licencji, która je obejmuje. Więcej uwagi należy poświęcić wykorzystaniu oprogramowania Open Source na licencjach typu copyleft. W tym przypadku istotny staje się sposób połączenia takiego oprogramowania z innymi elementami produktu, opisany poniżej. Ryzykowne może okazać się stosowanie komponentów na "egzotycznych" (rzadko spotykanych) licencjach, zwłaszcza jeśli nie zostały one poddane ocenie przez organizacje takie jak Free Software Foundation czy Open Source Initiative.
+
+Licencje "non-copyleft" (znane również jako "permisywne") nie mają podobnych ograniczeń. Z reguły nie ma więc przeciwwskazań do łączenia rozwiązań "własnościowych" i "otwartych", w tym udostępniania rozwoju "otwartego" programu na licencji "zamkniętej". Najpopularniejsze przykłady to MIT, BSD (wszystkie wersje) oraz Apache. Licencje te nie nakładają obowiązku udostępniania kodu źródłowego. Oznacza to, że program objęty taką licencją może być udostępniony zarówno w postaci binarnej, jak i źródłowej, niezależnie od tego, czy został zmodyfikowany, czy nie.
+
 
 
 ## Linki
