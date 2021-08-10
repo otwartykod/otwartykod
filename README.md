@@ -143,6 +143,38 @@ Developed in partnership with the world’s leading chip companies over a 15-yea
 ## Definitions
 
 
+## Darmowe banki zdjęć
+
+icencja to warunki wyrażenia zgody na wykorzystanie danej fotografii czy grafiki. 
+ważne, by sprawdzić jakie są możliwości wykorzystania utworu/fotografii. 
+Najczęstsze typy licencji to: CC BY, CC BY-SA oraz CC0. 
+
+
+### CC BY
+typ licencji, gdzie można swobodnie z niej korzystać pod warunkiem wskazania autora.
+Oznaczenie danego utworu to wskazanie co najmniej imienia i nazwiska, nicku autora, linku do utworu oraz opisać wprowadzone zmiany.
+ 
+## CC BY-SA
+to zdjęcie i grafiki, które można używać ze wskazaniem autora. 
+Należy również pamiętać, by korzystać jedynie z wersji oryginalnej. 
+Oznacza to, że nie są dozwolone żadne zmiany w kreacji grafiki. 
+ 
+### CC0 
+to typ utworów, które można swobodnie używać, nie ma też konieczności podawania autora. 
+Możliwe jest również nanoszenie zmian.  
+ 
+### Lista darmowowych banków zdjęć: 
+> 
+> -   Unsplash [https://unsplash.com/](https://unsplash.com/)
+> -   Gratisography [https://gratisography.com/](https://gratisography.com/)
+> -   Morguefile [https://morguefile.com/](https://morguefile.com/)
+> -   Pixabay [https://pixabay.com/](https://pixabay.com/)
+> -   Stockvault [https://www.stockvault.net/free-photos/](https://www.stockvault.net/free-photos/)
+> -   Pexels [https://www.pexels.com/](https://www.pexels.com/)
+> -   Pic Jumbo [https://picjumbo.com/free-stock-photos/](https://picjumbo.com/free-stock-photos/)
+> -   Pik Wizard [https://pikwizard.com/](https://pikwizard.com/)
+> -   RAW Pixel [https://www.rawpixel.com/](https://www.rawpixel.com/)
+> -   Re Shot [https://www.reshot.com/free-stock-photos/](https://www.reshot.com/free-stock-photos/)
 
 
 ## Inne tematy:
