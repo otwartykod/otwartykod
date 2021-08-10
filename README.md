@@ -11,7 +11,7 @@ Licencje oznaczone jako liberalne z zasady nadają się do zastosowania w projek
 
 Niemniej jednak w niektórych przypadkach możliwe jest łączenie kodu „copyleft” z kodem komercyjnym bez uszczerbku dla tego drugiego, choć wymaga to pewnej wirtuozerii zarówno po stronie deweloperów, jak i obsługujących ich prawników. 
 
-[The Legal Side of Open Source | Open Source Guides](https://opensource.guide/legal/)
+[Open Source Guides](https://opensource.guide/legal/)
 
 ## Licencje
  
@@ -56,7 +56,7 @@ Niemniej jednak w niektórych przypadkach możliwe jest łączenie kodu „copyl
 
 
 
-## [9 open source license best practices | Opensource.com](https://opensource.com/article/17/9/9-open-source-software-rules-startups)
+## [9 open source license best practices - Opensource.com](https://opensource.com/article/17/9/9-open-source-software-rules-startups)
 
 Misuse of open source software can delay or derail investment and corporate exit opportunities. But you can easily comply with open source licenses if you follow these simple rules.
 
@@ -89,7 +89,7 @@ Whether an open source violation is caused by your employee or a third-party con
 Startup business models can change rapidly, and a SaaS model can quickly become a distributed software model. Following the rules for distributed software, regardless of your current model, can provide flexibility for shifting to a distributed software model without having to remove certain open source software and change associated functionalities.
 
 ## Licencja MIT
-[Open Source - trochę dłuższa analiza (część pierwsza) | LinkedIn](https://www.linkedin.com/pulse/open-source-troch%C4%99-d%C5%82u%C5%BCsza-analiza-cz%C4%99%C5%9B%C4%87-pierwsza-marcin-maruta/)
+[Open Source - trochę dłuższa analiza (część pierwsza) - LinkedIn](https://www.linkedin.com/pulse/open-source-troch%C4%99-d%C5%82u%C5%BCsza-analiza-cz%C4%99%C5%9B%C4%87-pierwsza-marcin-maruta/)
 
 Non-copyleft - MIT, BSD, Apache 2.0 - licencja wymaga zachowania praw autorskich i informacji o licencji, ale pozwala na dystrybucję na innych warunkach bez ujawniania kodu źródłowego.
 
