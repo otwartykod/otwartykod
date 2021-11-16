@@ -1,7 +1,11 @@
 # [About Opensource licenses - Otwarty Kod](https://www.otwartykod.pl/)
 
 
-Wybór odpowiedniej licencji:
+## Dokumentacja
+
++ [The GNU Operating System and the Free Software Movement](http://www.gnu.org/)
+
+## Wybór odpowiedniej licencji:
 
 
 Poniżej znajudje się krótkie podsumowanie najpopularniejszych licencji Open Source, to obraz pozwalający na podjęcie decyzji biznesowych co do wykorzystania poszczególnych licencji w projektach komercyjnych.
