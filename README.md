@@ -1,9 +1,27 @@
 # [About Opensource licenses - Otwarty Kod](https://www.otwartykod.pl/)
 
 
+## Movies
+
++ [Fondeados | Netflix – offizielle Webseite](https://www.netflix.com/de/title/81046147)
+
++ [The Billion Dollar Code | Netflix – offizielle Webseite](https://www.netflix.com/de/title/81074012)
+
+
+## Open
+
++ [How to Start an Open Source Project on GitHub – Tips from Building My Trending Repo](https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/)
+
+
 ## Dokumentacja
 
 + [The GNU Operating System and the Free Software Movement](http://www.gnu.org/)
+
++ [Why Corporations Favors The Apache License Over The GPL/LGPL](https://digitizor.com/apache-license-vs-the-gpl/)
+
++
+
+
 
 ## Wybór odpowiedniej licencji:
 
