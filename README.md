@@ -217,6 +217,21 @@ By umożliwić instalowanie aplikacji ale uniemożliwić odsprzedaż tej bibliot
 [Existing projects and communities - Choose a License](https://choosealicense.com/community/)
 
 
+[GNU General Public License | Open Source Initiative](https://opensource.org/licenses/gpl-license)
+
+# GNU General Public License
+
+This license, commonly known as the GPL, has two versions that are actively and widely used in many open source communities:
+
+-   [GNU General Public License, version 2](https://opensource.org/licenses/GPL-2.0) (SPDX short identifier: GPL-2.0)
+-   [GNU General Public License, version 3](https://opensource.org/licenses/GPL-3.0) (SPDX short identifier: GPL-3.0)
+
+If you have licensed software you've written under GPL version 2, and you are the original licensor of that software, you may wish to relicense your software under GPL version 3.
+
+Most GPL version 2 software is actually licensed as "GPL version 2 _or any later version_", or words to similar effect, which is commonly understood as a grant under GPL version 2, section 9 of an "option to follow the terms and conditions . . . of any later version" of the GPL. In this case, even if you are not the original licensor of the GPL version 2 software, you can "follow the terms and conditions" of GPL version 3 instead. This is not commonly done (at least in any explicit way), however.
+
+
+
 ## examples:
 
 -   [Apache](https://www.apache.org/licenses/) requires [Apache License 2.0](https://licencja.otwartykod.pl/apache-2.0)
