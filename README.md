@@ -61,17 +61,17 @@ Niemniej jednak w niektórych przypadkach możliwe jest łączenie kodu „copyl
 
 [The Legal Side of Open Source | Open Source Guides](https://opensource.guide/legal/)
 
-> **If you’re open sourcing a project for your company,** then definitely let them know. Your legal team probably already has policies for what open source license (and maybe additional contributor agreement) to use based on the company’s business requirements and expertise around ensuring your project complies with the licenses of its dependencies. If not, you and they are in luck! Your legal team should be eager to work with you to figure this stuff out. Some things to think about:
-> 
-> -   **Third party material:** Does your project have dependencies created by others or otherwise include or use others’ code? If these are open source, you’ll need to comply with the materials’ open source licenses. That starts with choosing a license that works with the third party open source licenses (see above). If your project modifies or distributes third party open source material, then your legal team will also want to know that you’re meeting other conditions of the third party open source licenses such as retaining copyright notices. If your project uses others’ code that doesn’t have an open source license, you’ll probably have to ask the third party maintainers to [add an open source license](https://choosealicense.com/no-license/#for-users), and if you can’t get one, stop using their code in your project.
->     
-> -   **Trade secrets:** Consider whether there is anything in the project that the company does not want to make available to the general public. If so, you could open source the rest of your project, after extracting the material you want to keep private.
->     
-> -   **Patents:** Is your company applying for a patent of which open sourcing your project would constitute [public disclosure](https://en.wikipedia.org/wiki/Public_disclosure)? Sadly, you might be asked to wait (or maybe the company will reconsider the wisdom of the application). If you’re expecting contributions to your project from employees of companies with large patent portfolios, your legal team may want you to use a license with an express patent grant from contributors (such as Apache 2.0 or GPLv3), or an additional contributor agreement (see above).
->     
-> -   **Trademarks:** Double check that your project’s name [does not conflict with any existing trademarks](https://opensource.guide/starting-a-project/#avoiding-name-conflicts). If you use your own company trademarks in the project, check that it does not cause any conflicts. [FOSSmarks](http://fossmarks.org/) is a practical guide to understanding trademarks in the context of free and open source projects.
->     
-> -   **Privacy:** Does your project collect data on users? “Phone home” to company servers? Your legal team can help you comply with company policies and external regulations.
+**If you’re open sourcing a project for your company,** then definitely let them know. Your legal team probably already has policies for what open source license (and maybe additional contributor agreement) to use based on the company’s business requirements and expertise around ensuring your project complies with the licenses of its dependencies. If not, you and they are in luck! Your legal team should be eager to work with you to figure this stuff out. Some things to think about:
+
+-   **Third party material:** Does your project have dependencies created by others or otherwise include or use others’ code? If these are open source, you’ll need to comply with the materials’ open source licenses. That starts with choosing a license that works with the third party open source licenses (see above). If your project modifies or distributes third party open source material, then your legal team will also want to know that you’re meeting other conditions of the third party open source licenses such as retaining copyright notices. If your project uses others’ code that doesn’t have an open source license, you’ll probably have to ask the third party maintainers to [add an open source license](https://choosealicense.com/no-license/#for-users), and if you can’t get one, stop using their code in your project.
+    
+-   **Trade secrets:** Consider whether there is anything in the project that the company does not want to make available to the general public. If so, you could open source the rest of your project, after extracting the material you want to keep private.
+    
+-   **Patents:** Is your company applying for a patent of which open sourcing your project would constitute [public disclosure](https://en.wikipedia.org/wiki/Public_disclosure)? Sadly, you might be asked to wait (or maybe the company will reconsider the wisdom of the application). If you’re expecting contributions to your project from employees of companies with large patent portfolios, your legal team may want you to use a license with an express patent grant from contributors (such as Apache 2.0 or GPLv3), or an additional contributor agreement (see above).
+    
+-   **Trademarks:** Double check that your project’s name [does not conflict with any existing trademarks](https://opensource.guide/starting-a-project/#avoiding-name-conflicts). If you use your own company trademarks in the project, check that it does not cause any conflicts. [FOSSmarks](http://fossmarks.org/) is a practical guide to understanding trademarks in the context of free and open source projects.
+    
+-   **Privacy:** Does your project collect data on users? “Phone home” to company servers? Your legal team can help you comply with company policies and external regulations.
 
 + [Choose an open source license | Choose a License](https://choosealicense.com/)
 
@@ -179,24 +179,53 @@ Oznaczenie danego utworu to wskazanie co najmniej imienia i nazwiska, nicku aut
 ## CC BY-SA
 to zdjęcie i grafiki, które można używać ze wskazaniem autora. 
 Należy również pamiętać, by korzystać jedynie z wersji oryginalnej. 
-Oznacza to, że nie są dozwolone żadne zmiany w kreacji grafiki. 
+wwwOznacza to, że nie są dozwolone żadne zmiany w kreacji grafiki. 
  
-### CC0 
+### CC0 Generalnie jeśli robisz aplikacje Open Source, którą ktoś instaluje na swoim serwerze. To wtedy to nie jest kopiowaie. Taka jest definicja. Więc nawet jak licencja jest GNU GPL. To nikt nie musi udostępniać kodu swojego projektu. Będzie musiała udostępnić kod tylko jeśli np. będzie sprzedawać kopie swojego programu. Nie pamiętam czy to opisałem. Ale to jest główny powód powstania licenncji AGPL aby kod który jest na serwerze był traktowany jak kopiowanie. Nie wiem jak dokładnie to jest skonstruowane, bo licencje GNU są ciężkie do zrozumienia. To mega ciężki język prawniczy i jeszcze po angielsku.
+
 to typ utworów, które można swobodnie używać, nie ma też konieczności podawania autora. 
 Możliwe jest również nanoszenie zmian.  
  
 ### Lista darmowowych banków zdjęć: 
-> 
-> -   Unsplash [https://unsplash.com/](https://unsplash.com/)
-> -   Gratisography [https://gratisography.com/](https://gratisography.com/)
-> -   Morguefile [https://morguefile.com/](https://morguefile.com/)
-> -   Pixabay [https://pixabay.com/](https://pixabay.com/)
-> -   Stockvault [https://www.stockvault.net/free-photos/](https://www.stockvault.net/free-photos/)
-> -   Pexels [https://www.pexels.com/](https://www.pexels.com/)
-> -   Pic Jumbo [https://picjumbo.com/free-stock-photos/](https://picjumbo.com/free-stock-photos/)
-> -   Pik Wizard [https://pikwizard.com/](https://pikwizard.com/)
-> -   RAW Pixel [https://www.rawpixel.com/](https://www.rawpixel.com/)
-> -   Re Shot [https://www.reshot.com/free-stock-photos/](https://www.reshot.com/free-stock-photos/)
+
+-   Unsplash [https://unsplash.com/](https://unsplash.com/)
+-   Gratisography [https://gratisography.com/](https://gratisography.com/)
+-   Morguefile [https://morguefile.com/](https://morguefile.com/)
+-   Pixabay [https://pixabay.com/](https://pixabay.com/)
+-   Stockvault [https://www.stockvault.net/free-photos/](https://www.stockvault.net/free-photos/)
+-   Pexels [https://www.pexels.com/](https://www.pexels.com/)
+-   Pic Jumbo [https://picjumbo.com/free-stock-photos/](https://picjumbo.com/free-stock-photos/)
+-   Pik Wizard [https://pikwizard.com/](https://pikwizard.com/)
+-   RAW Pixel [https://www.rawpixel.com/](https://www.rawpixel.com/)
+-   Re Shot [https://www.reshot.com/free-stock-photos/](https://www.reshot.com/free-stock-photos/)
+
+
+## Licencje GNU i opensource
+
+Jeśli ktoś instaluje aplikację/bibliotekę Open Source na swoim serwerze to nie jest uznane za kopiowaie.
+Więc nawet wykorzystując w swoim projekcie, na swoim serwerze utwory na licencji GNU GPL to nie musimy udostępniać kodu swojego projektu.
+
+Będziemy musieli udostępnić kod tylko jeśli np. będziemy sprzedawać kopie swojego programu.
+Dlatego powstała licencja GNU AGPL by kod który został użyty na serwerze był traktowany jak *kopiowanie*. 
+
+By umożliwić instalowanie aplikacji ale uniemożliwić odsprzedaż tej biblioteki dalej, nawet po modyfikowacji warto obronić się warunkami GNU GPL, która wymaga:
++ 1
++ 2
++ 3
+
+
+[Existing projects and communities - Choose a License](https://choosealicense.com/community/)
+
+
+## examples:
+
+-   [Apache](https://www.apache.org/licenses/) requires [Apache License 2.0](https://licencja.otwartykod.pl/apache-2.0)
+-   [Cloud Native Computing Foundation](https://github.com/cncf/toc/blob/master/process/project_proposals.adoc) dictates [Apache License 2.0](https://licencja.otwartykod.pl/apache-2.0/) by default
+-   [GNU](https://www.gnu.org/licenses/license-recommendations.html) recommends [GNU GPLv3](https://licencja.otwartykod.pl/gpl-3.0) for most programs
+-   [npm packages](https://libraries.io/search?platforms=npm) overwhelmingly use the [MIT](https://licencja.otwartykod.pl/mit) or the very similar [ISC](https://licencja.otwartykod.pl/isc) licenses
+-   [OpenBSD](https://www.openbsd.org/policy.html) prefers the [ISC License](https://licencja.otwartykod.pl/isc)
+-   [Rust](https://rust-lang.github.io/api-guidelines/necessities.html#crate-and-its-dependencies-have-a-permissive-license-c-permissive) crates are overwhelmingly licensed under both [MIT](https://licencja.otwartykod.pl/mit/) and [Apache License 2.0](https://licencja.otwartykod.pl/apache-2.0)
+-   [WordPress](https://wordpress.org/about/license/) plugins and themes must be [GNU GPLv2](https://licencja.otwartykod.pl/gpl-2.0) (or later)
 
 
 ## Inne tematy:
