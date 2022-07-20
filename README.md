@@ -243,6 +243,75 @@ Most GPL version 2 software is actually licensed as "GPL version 2 _or any later
 -   [WordPress](https://wordpress.org/about/license/) plugins and themes must be [GNU GPLv2](https://licencja.otwartykod.pl/gpl-2.0) (or later)
 
 
+
+
+# Program szkolenia
+
+Zdecydowana większość tworzonego obecnie oprogramowania powstaje w oparciu lub co najmniej z wykorzystaniem programów już uprzednio istniejących. 
+
+Z dosyć oczywistych, głównie ekonomicznych względów istotna rolę odgrywa w tym przypadku wykorzystanie komponentów udostępnianych w oparciu o licencje open source. 
+Nieodpłatne wykorzystanie dostępnych elementów nie ogranicza się jednak wyłącznie do software. 
+Powstałe w wyniku inspiracji ruchem wolnego oprogramowania licencje typu open content (np. Creative Commons) rozszerzyły zakres nieodpłatnie dostępnych utworów na zdjęcia, grafiki, teksty, muzykę.
+Czy jednak korzystanie z utworów objętych tego rodzaju licencjami zawsze jest wskazane? 
+Jakie skutki prawne i ryzyka powinien brać pod uwagę twórca lub podmiot zlecający wykonanie prac programistycznych? 
+Czy dobra umowa może te ryzyka ograniczać?
+Jak to w praktyce zrobić? Na te i inne podobne pytania odpowiedź uzyskają w trakcie warsztatów ich uczestnicy.
+
+Szkolenie przeznaczone jest przede wszystkim dla osób praktycznie uczestniczących w przygotowywaniu oraz realizacji projektów związanych z budową lub rozwojem systemów IT, w tym:
+
++ menedżerów odpowiedzialnych za negocjacje i wykonanie kontraktów IT,
++ osób biorących udział w negocjowaniu umów dotyczących budowy lub rozwoju systemów informatycznych,
++ koordynatorów nadzorujących realizację projektów IT związanych z tworzeniem oprogramowania,
++ prawników wewnętrznych producentów, dystrybutorów i użytkowników oprogramowania.
+
+
+
+## Podstawowe pojęcia i „mechanizmy" prawa autorskiego
+
+    Czym jest utwór? Co jest chronione prawem autorskim?
+    Kto i jak nabywa prawa autorskie?
+    Do czego te prawa przysługują i jaki mają charakter?
+    W jaki sposób i w jakiej formie można rozporządzać prawami autorskimi
+    Ochrona programów komputerowych a ochrona innych utworów – podobieństwa i różnice
+    Dwa słowa o licencjach ustawowych i domenie publicznej
+
+## Licencje Open source – kwestie zasadnicze
+
+    Dlaczego i jak to się zaczęło ? R. Stallman i FSF
+    Czym się rożni wolne oprogramowanie od oprogramowania open source
+    Model copyleft v non-copyleft – podstawowe różnice, główne podobieństwa
+    Licencje open source a prawo polskie
+
+## Popularne licencje Open source – praktyczne konsekwencje zastosowań biznesowych
+
+    GNU GPL – „wirus" GPL w praktyce
+    GNU LGPL – open source a biblioteki współdzielone
+    GNU AGPL – open source a SaaS
+    BSD, MIT – wariant liberalny
+    Apache
+
+## Pozostałe istotne aspekty prawne licencji open source
+
+    Odpowiedzialność za wady oprogramowania open source
+    Skutki łączenia komponentów opartych na różnych licencjach, dual licensing
+    Okres obowiązywania licencji
+    BSD, MIT – wariant liberalny
+    Skutki naruszenia warunków licencji open source
+
+## Licencje open content
+
+    Czego dotyczą i jak to właściwie działa ?
+    GNU FDL (Free Documentation License)
+    licencje Creative Commons, problem z CC0
+    Możliwości, skutki i ograniczenia wykorzystania open content w biznesie
+
+## Przykładowe klauzule dotyczące oprogramowania open source i utworów open content
+
+    Perspektywa dostawcy
+    Perspektywa klienta
+    Case study
+
+
 ## Inne tematy:
 
 + [Zaplanuj Biznes](https://www.zaplanujbiznes.pl/)
