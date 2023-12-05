@@ -1,6 +1,8 @@
 # [About Opensource licenses - Otwarty Kod](https://www.otwartykod.pl/)
 
++ [Open Source Guides - Learn how to launch and grow your project.](https://opensource.guide/)
 
+  
 ## Movies
 
 + [Fondeados | Netflix – offizielle Webseite](https://www.netflix.com/de/title/81046147)
